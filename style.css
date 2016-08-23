@@ -26,7 +26,7 @@ body {
 	padding:0.5em 1em;
 	border-bottom:1px solid #ccc;
 	cursor:pointer;
-	transition:0.4s;
+	transition:0.3s;
 }
 .todo-list li.is-done:before {
 	content:"✔︎";
